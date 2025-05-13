@@ -10,11 +10,7 @@ export function Footer() {
           <div className="mb-6 md:mb-0">
             <h3 className="text-2xl font-bold text-gradient mb-2">Navya Sajja</h3>
             <p className="text-gray-400">B.Tech in Computer Science & Data Science</p>
-            <p>Developed by{" "}
-              <a href="https://indivar.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline dark:text-blue-400">
-                Bolisetty Indivar
-              </a>
-            </p>
+            
           </div>
           
           <div className="flex space-x-6 mb-6 md:mb-0">
